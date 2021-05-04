@@ -1,2 +1,2 @@
-# CS503_lab
-CS503 labs for the 2020-2021 spring course offered by Dr. C.K.N.
+# CS503-Lab
+All the lab notebooks for CS503 2021 Spring course offered by Dr. C.K.N.
